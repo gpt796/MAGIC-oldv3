@@ -5,4 +5,5 @@ int main(){
     printf("Main");
     printf("Login");
     printf("Search Content");
+    printf("Play Content");
 }
