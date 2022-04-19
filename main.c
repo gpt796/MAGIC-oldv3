@@ -3,5 +3,6 @@
 
 int main(){
     printf("Main");
-    printf("Login";
+    printf("Login");
+    printf("Search Content");
 }
