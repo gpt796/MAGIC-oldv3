@@ -3,5 +3,6 @@
 
 int main(){
     printf("Main");
-    printf("Access Credentials";
+    printf("Access Credentials");
+    printf("Payment method");
 }
